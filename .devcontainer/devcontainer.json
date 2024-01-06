@@ -3,24 +3,8 @@
 	// using CS defaults
 	"image": "mcr.microsoft.com/devcontainers/dotnet:8.0-jammy",	
 	// "forwardPorts": [5100, 5200], 
-	"extensions": [
-	// "docsmsft.docs-authoring-pack",
-	// "donjayamanne.githistory",
-	//"eamodio.gitlens",
-	// "editorconfig.editorconfig",
-	//"github.vscode-pull-request-github",
-	// "jongrant.csharpsortusings",
-	// "k--kato.docomment",
-	// "kreativ-software.csharpextensions",
-	//"mhutchie.git-graph",
-	//"ms-dotnettools.csharp",
-	//"ms-vscode.azure-account",
-	//"humao.rest-client",
-	// "ms-vscode.powershell",
-	// "ms-vscode.vscode-node-azure-pack",
-	//"ms-vsliveshare.vsliveshare", 
-	// "visualstudioexptteam.vscodeintellicode",
-	// "yzhang.markdown-all-in-one"
+	"extensions": [	
+	//"github.vscode-pull-request-github",	
 	],
 	//current default CS has everything needed so no extra items to install at this time 1-6-21 
 	//    "dockerFile": "Dockerfile",
